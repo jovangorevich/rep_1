@@ -1,7 +1,7 @@
 from tkinter import *
 import time
 import random
-import pygame
+import pygame1
 class Ball():
 
     def __init__(self, canvas, platform, color):
